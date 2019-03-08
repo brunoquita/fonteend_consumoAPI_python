@@ -1,0 +1,13 @@
+{
+  "name": "frontend",
+  "authors": [
+    "Bruno <bruno.rocha@squadra.com.br>"
+  ],
+  "description": "fontend para consumir api",
+  "main": "index.html",
+  "license": "MIT",
+  "homepage": "n",
+  "dependencies": {
+    "bootstrap": "^4.3.1"
+  }
+}
